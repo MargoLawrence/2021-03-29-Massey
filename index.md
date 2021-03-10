@@ -406,7 +406,7 @@ These are the installation instructions for the tools used
 during the workshop.
 {% endcomment %}
 
-<p>Set up your workspace</p>
+<p>SET UP YOUR WORKSPACE</p>
 
 <p>Like other Carpentries workshops, you will be learning by "coding along" with the Instructors. To do this, you will need to have both the window for the tool you will be learning about (Excel) and the window for the Zoom video conference client open. In order to see both at once, we recommend using one of the following set up options:</p>
 
