@@ -354,7 +354,7 @@ of code below the Schedule `<h2>` header below with
 <hr/>
 
 
-<strong>Set Up Your Workspace</strong>
+<p><h2>Set Up Your Workspace</h2></p>
 
 
 <p>Like other Carpentries workshops, you will be learning by "coding along" with the Instructors. To do this, you will need to have both the window for the tool you will be learning about (Excel) and the window for the Zoom video conference client open. In order to see both at once, we recommend using one of the following set up options:</p>
